@@ -3,7 +3,7 @@
 
 ## Project Overview
 Idiopathic pulmonary fibrosis (IPF) is a progressive fatal fibrotic lung disease with limited therapeutic options.
-This repository provides code for multi‑cohort transcriptomic integration, signature identification, AI‑based compound prioritization and downstream analysis.
+This repository provides code for multi‑dimensional transcriptomic and proteomic analysis, biomarker identification, and the development of anti‑fibrotic therapeutic agents downstream analysis.
 
 **Key workflow**:
 1. Integration of multiple independent IPF transcriptomic datasets
